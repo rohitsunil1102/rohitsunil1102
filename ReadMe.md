@@ -1,14 +1,10 @@
-# 🎓 Rohit Sunil
+# Hi, I'm Rohit Sunil. 
 
-**MSCS @ UCLA** | **B.Tech CSE @ NITK '26** (Minor in Machine Learning)  
-*Actively seeking **Summer 2027** Machine Learning / Computer Vision Engineering Internships.*
+**MSCS @ UCLA** | **B.Tech CSE @ NITK '26** (Minor in Machine Learning)
+I'm interested in using Machine Learning and Computer Vision for real-world tasks such as Sports Analysis and Autonomous Driving.
+*Actively seeking **Summer 2027** Internships.*
 
 ---
-
-### 🧬 About Me
-* 🎯 **Focus Areas:** Machine Learning, Computer Vision, Deep Learning, and Spatial/Video AI.
-* 🚗 **Domains of Interest:** Autonomous Driving, Sports Analytics, and Multi-Object Tracking.
-* 📍 **Location:** Los Angeles, CA
 
 ---
 
