@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Sunil. 
 
-**MSCS @ UCLA** | **B.Tech CSE @ NITK '26** (Minor in Machine Learning)
+**MSCS @ UCLA** | **B.Tech CSE @ NITK '26** | Minor in Machine Learning
 
 I'm interested in using Machine Learning and Computer Vision for real-world tasks such as Sports Analysis and Autonomous Driving.
 
@@ -8,9 +8,7 @@ Actively seeking **Summer 2027** Internships.
 
 ---
 
----
-
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### **Machine Learning, Deep Learning & Vision**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -38,19 +36,6 @@ Actively seeking **Summer 2027** Internships.
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=rohitsunil1102&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohitsunil1102&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rohitsunil1102&theme=transparent&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
-### 🌐 Connect with Me
+### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitsunil1102)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitsunil1102@gmail.com)
